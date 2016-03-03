@@ -1,0 +1,37 @@
+Een melding van een klokkenluider kan alleen worden bekeken op een speciale laptop. 
+
+Bij de laptop hoort een USB-stick met Tails.
+
+In Tails is een speciale Tor-browser die nodig is om de melding te kunnen bekijken.
+
+Melding bekijken en documenten op de laptop downloaden 
+Steek eerst de Publeaks USB-stick in de laptop. 
+Zet daarna pas de laptop aan. Het opstarten duurt even.
+Klik in het inlogscherm bij Use Persistence? op Yes. 
+Vul de Passphrase in en klik op Login. 
+Wacht totdat het bureaublad verschijnt. Ook dat duurt even. 
+Klik rechtsboven op het pijltje en daarna op WI-FI en kies het netwerk waarop je online wil. 
+Wacht totdat onderin de melding ‘Tor is ready’ verschijnt. Ook dat duurt even.
+Open linksboven Applications en dubbelklik op Tor Browser.
+Ga naar https://secure.publeaks.nl/#/login
+Je wordt automatisch doorgelinkt naar http://www.5karyquenden4d6k.onion/#/login
+Kies onder ‘Selecteer je account’ de naam van de organisatie waar je werkt en vul daarna het wachtwoord in. 
+Je komt in het overzicht van de meldingen terecht. 
+Om een melding te bekijken, klik je op de bereffende regel.
+Je ziet vervolgens informatie over de melding. Bovenaan staat bij welke media de informatie is aangemeld.
+Je kunt deze tekst kopiëren (tekst selecteren en Ctrl+C) en in een tekstbestand opslaan (klik bovenin op het klembord, kies ‘Open Tekst Editor’ en toets Ctrl+V). Klik op Save en bewaar het document op Desktop.
+Klik onderaan bij de bestanden op de knop Download, klik in het popupvenster op Save file en klik daarna op Save om het bestand op te slaan in de map Tor Browser.
+(Let op: een document kan maar 10 keer worden gedownload.  )
+Sluit de browser niet af.
+Wil je terug naar het overzicht van de tips? Klik boven in de header op Receiver. 
+
+Documenten decoderen 
+Dubbelklik op het bureaublad op Home. 
+Open de map Tor Browser. 
+Klik met de rechtermuisknop het bestand en kies ‘Open With Decrypt File’. 
+Vul de Passphrase in en klik op OK. 
+Het ontcijferde bestand wordt in dezelfde map opgeslagen (zonder de extensie pgp). 
+Bekijk de bestanden en laat een bericht achter voor de klokkenluider (in de internetbrowser bij Priveberichten).
+Sluit vervolgens de laptop af. Klik eerst de geopende vensters weg. Klik op het pijltje in de rechterbovenhoek en klik op het aan/uit-icoontje.
+Bij de melding ‘You can now remove the boot DVD or USB stick’ kun je de laptop dichtklappen.
+
